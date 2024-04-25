@@ -17,11 +17,11 @@ Livro:
 
 Faça um texto para um ebook, explicando porque o capitalismo está em declínio devido a diminuição da competição por conta do monopólio de grandes empresas
 {REGRAS}
-> Explique sempre de maneira simples
-> Deixe o texto enxuto
-> Sempre traga exemplos de casos que apontam para o ponto de vista
-> Sempre deixe um título sugestivo por tópico
-> Utilize argumentos e referências de especialistas que corroborem o argumento do capítulo
+Explique sempre de maneira simples
+Deixe o texto enxuto
+Sempre traga exemplos de casos que apontam para o ponto de vista
+Sempre deixe um título sugestivo por tópico
+Utilize argumentos e referências de especialistas que corroborem o argumento do capítulo
 
 Citações:
 
